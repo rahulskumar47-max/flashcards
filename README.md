@@ -4,8 +4,7 @@ A fully interactive flashcards web app built with **React** and **Redux Toolkit*
 
 ---
 
-## 🚀 Live Demo
-*(Add your deployed link here later — Vercel / Netlify)*
+
 
 ---
 
